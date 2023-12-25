@@ -12,3 +12,11 @@
  - reference https://github.com/Rikorose/DeepFilterNet
 
 ----
+
+## 3. OSA_RES_eSE
+<div align="center">
+  <img src="https://dl.dropbox.com/s/jgi3c5828dzcupf/osa_updated.jpg" width="700px" />
+</div>
+
+- reference https://github.com/youngwanLEE/vovnet-detectron2
+  
