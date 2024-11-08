@@ -27,7 +27,6 @@ class TACModule(nn.Module):
     def forward(self, input):
         # input shape: batch, time_frames, channels, features
         batch_size, time_frames, channels, features = input.shape
-        
         # TAC for cross-channel communication
         # Transform
         ch_input = input.view(-1, features)

@@ -85,4 +85,4 @@ def pc_sampler():
 
   Euler method
 
-  diffusion reverse method
+  diffusion reverse method//
